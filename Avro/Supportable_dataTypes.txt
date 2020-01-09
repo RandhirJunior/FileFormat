@@ -1,0 +1,1 @@
+Avro files doecn't support timestamp datatypes.
